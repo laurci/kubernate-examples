@@ -1,4 +1,9 @@
 import kube, {output} from "kubernate";
+
+/**
+ * Kubernate comes with some pre-built resource helpers for most common resources.
+ * check imports from "kubernate/resources/*"
+ */
 import namespace from "kubernate/resources/namespace";
 
 import * as path from "path";
