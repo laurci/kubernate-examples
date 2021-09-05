@@ -1,0 +1,15 @@
+{
+    "entry": "./src/resources/index.ts",
+    "entryTypeName": "Resources",
+    "output": {
+        "code": "./src/generated",
+        "schemas": "./schemas"
+    },
+    "absoluteOutputs": {
+        "code": "./src/generated/declarations.ts",
+        "schemas": {
+            "main": "./schemas/resources.json",
+            "objects": "./schemas/objects.json"
+        }
+    }
+}

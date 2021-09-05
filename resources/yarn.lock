@@ -92,14 +92,14 @@
   integrity sha512-qcUXuemtEu+E5wZSJHNxUXeCZhAfXKQ41D+duX+VYPde7xyEVZci+/oXKJL13tnRs9lR2pr4fod59GT6/X1/yQ==
 
 "@types/node@^14.14.33":
-  version "14.17.13"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.17.13.tgz#392ba5c51b1550ee3c38082cf1e59b3144f06871"
-  integrity sha512-OqG3iSnFg3cnJLsSRyhriILdDfBOwGty0fmnalbsPdYKbDgK6TI9On/36lzO/1bcaeEkg9OGD2wYLjx8t5MZNQ==
+  version "14.17.14"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.17.14.tgz#6fda9785b41570eb628bac27be4b602769a3f938"
+  integrity sha512-rsAj2u8Xkqfc332iXV12SqIsjVi07H479bOP4q94NAcjzmAvapumEhuVIt53koEf7JFrpjgNKjBga5Pnn/GL8A==
 
 "@types/node@^16.7.9":
-  version "16.7.9"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.7.9.tgz#3bf27710839e62a470ddf6bd8dd321f1737ce5b4"
-  integrity sha512-KktxVzS4FPDFVHUUOWyZMvRo//8vqOLITtLMhFSW9IdLsYT/sPyXj3wXtaTcR7A7olCe7R2Xy7R+q5pg2bU46g==
+  version "16.7.10"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.7.10.tgz#7aa732cc47341c12a16b7d562f519c2383b6d4fc"
+  integrity sha512-S63Dlv4zIPb8x6MMTgDq5WWRJQe56iBEY0O3SOFA9JrRienkOVDXSXBjjJw6HTNQYSE2JI6GMCR6LVbIMHJVvA==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
@@ -400,13 +400,14 @@ jsonify@~0.0.0:
   integrity sha1-LHS27kHZPKUbe1qu6PUDYx0lKnM=
 
 kubernate@~1.22:
-  version "1.22.8"
-  resolved "https://registry.yarnpkg.com/kubernate/-/kubernate-1.22.8.tgz#a098e601c10ac66cf5a2117ea152355e98d76fb1"
-  integrity sha512-rNU2WjyJF6ZrOzcBvJKiqAvZp7irPZ0kGgUq461yutcg781a7d1sE88I68R7SvdnlXMh0T/c5hNSeIiGXDkXrw==
+  version "1.22.13"
+  resolved "https://registry.yarnpkg.com/kubernate/-/kubernate-1.22.13.tgz#a1d546e52ba908f1b2f226535544fcad97dbfe04"
+  integrity sha512-10PUv/OIGiFfH0QYljDolt4XdN/oQ3wJNopx9aazUP96o0pbwf8cFHwdTsQ38kLC+5yj2Tk7cSU8WT1YZXx+ug==
   dependencies:
     cosmiconfig "^7.0.1"
     deepmerge "^4.2.2"
     glob "^7.1.7"
+    minimatch "^3.0.4"
     semver "^7.3.5"
     ts-morph "^11.0.3"
     ts-node "^10.1.0"
@@ -623,9 +624,9 @@ ts-node@^9.1.1:
     yn "3.1.1"
 
 tslog@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/tslog/-/tslog-3.2.1.tgz#37df1301211901eb65fd61b9ad7c8554264a7699"
-  integrity sha512-m8wAtox9wt+h6UDcN1WAQnYwRDOGhMIOp+GAuuufo8T8qKuu726i2W3r47BrA69goVOwgUkp5YwDTvAxTktvPg==
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/tslog/-/tslog-3.2.2.tgz#5bbaa1fab685c4273e59b38064227321a69a0694"
+  integrity sha512-8dwb1cYpj3/w/MZTrSkPrdlA44loUodGT8N6ULMojqV4YByVM7ynhvVs9JwcIYxhhHf4bz1C5O3NKIPehnGp/w==
   dependencies:
     source-map-support "^0.5.19"
 
