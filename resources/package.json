@@ -12,7 +12,7 @@
         "build": "tsc"
     },
     "dependencies": {
-        "kubernate": "~1.22"
+        "kubernate": "^1.22.21"
     },
     "devDependencies": {
         "@types/node": "^16.7.9",
