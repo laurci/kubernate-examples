@@ -14,7 +14,7 @@ const outputPath = (fileName: string) => path.join(__dirname, "../output", fileN
  * This is the main entry point and will be called by Kubernate.
  */
 export default async () => {
-    // carete a new namespace
+    // create a new namespace
     const ns = namespace("hello-world");
 
     // create and reuse this selector
